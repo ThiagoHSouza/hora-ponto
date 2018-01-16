@@ -12,8 +12,8 @@ spring:
     mongodb:
       database: horaponto
       username: user8GL
-      password: 0kRe83eGy4w2UMjr
-      uri: mongodb://user8GL:0kRe83eGy4w2UMjr@mongodb/horaponto
+      password: ***
+      uri: mongodb://***:***@mongodb/horaponto
 
 jwt:
   header: Authorization
